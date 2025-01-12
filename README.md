@@ -99,11 +99,14 @@ Ensure you have the following installed:
 
 ### Home Page
 
-![Home Page Screenshot](https://via.placeholder.com/600x400?text=Add+your+screenshot)
+#Home Page Screenshot
+![Screenshot 2025-01-12 144713](https://github.com/user-attachments/assets/47028370-4de4-4f62-8a4f-fe0032fc92db)
+
 
 ### Dark Mode
 
-![Dark Mode Screenshot](https://via.placeholder.com/600x400?text=Add+your+screenshot)
+![Screenshot 2025-01-12 144806](https://github.com/user-attachments/assets/102c9ae4-0e1e-467f-8e5b-b79257ece9f1)
+
 
 ---
 
