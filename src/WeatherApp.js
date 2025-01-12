@@ -136,7 +136,7 @@ const WeatherApp = () => {
               </div>
             </motion.div>
             <h3 className="mb-4">Five-Day Forecast</h3>
-            <h6>Lets see how will be the weather for next five days</h6>
+            <h6>Lets see how the weather will be for next five days</h6>
             <div className="d-flex justify-content-between flex-wrap">
               {forecastData.map((forecast, index) => (
                 <div
